@@ -8,12 +8,18 @@
   <a href="https://www.linkedin.com/in/joseph-haase/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:joseph.haase.dev@gmail.com">
+  <a href="mailto:joseph@haaselabs.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://joseph.haaselabs.com/">
     <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <b>
+    joseph@haaselabs.com    
+  </b>
 </p>
 
 ---
@@ -109,10 +115,16 @@ Tenho experiência complementar com **React.js, Next.js, Zustand, shadcn/ui e Ta
   <a href="https://www.linkedin.com/in/joseph-haase/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:joseph.haase.dev@gmail.com">
+  <a href="mailto:joseph@haaselabs.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://joseph.haaselabs.com/">
     <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <b>
+    joseph@haaselabs.com    
+  </b>
 </p>
